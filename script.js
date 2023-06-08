@@ -1,1 +1,4 @@
-let date = new Date()
+let date = new Date();
+
+let compteur = 0
+
